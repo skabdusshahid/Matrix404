@@ -1,6 +1,6 @@
-import timg1 from '../images/team/team_member_image_1.webp'
-import timg2 from '../images/team/team_member_image_2.webp'
-// import timg3 from '../images/team/team_member_image_3.webp'
+import timg1 from '../images/team/Abdus.jpeg'
+import timg2 from '../images/team/julhas.png'
+import timg3 from '../images/team/team_member_image_3.webp'
 // import timg4 from '../images/team/team_member_image_4.webp'
 // import timg5 from '../images/team/team_member_image_5.webp'
 
@@ -21,6 +21,15 @@ const Teams = [
       slug: 'Julhas Sk',
       title: 'IT Consultant',
       email:'jk1999@gmail.com'
+
+   },
+   {
+      Id: '2',
+      tImg: timg3,
+      name: 'Samim Hossain',
+      slug: 'Samim Hossain',
+      title: 'Marketing Manager',
+      email:'demo@gmail.com'
 
    },
    // {

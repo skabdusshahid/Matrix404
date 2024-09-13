@@ -19,7 +19,7 @@ const ContactSection = (props) => {
                             <div className="iconbox_content">
                                 <h3 className="iconbox_title">Location</h3>
                                 <p className="mb-0">
-                                    Sunshine Business Park Sector-94, Poland
+                                    Hatiara, New Town, kolkata, 700157
                                 </p>
                             </div>
                         </div>
@@ -31,8 +31,8 @@ const ContactSection = (props) => {
                             </div>
                             <div className="iconbox_content">
                                 <h3 className="iconbox_title">Contact</h3>
-                                <p className="mb-0">+88(0) 555-0108</p>
-                                <div className="mb-0">+88(0) 555-01117</div>
+                                <p className="mb-0">+91 7001469907</p>
+                                <div className="mb-0">+91 9933837754</div>
                             </div>
                         </div>
                     </div>
@@ -43,8 +43,8 @@ const ContactSection = (props) => {
                             </div>
                             <div className="iconbox_content">
                                 <h3 className="iconbox_title">Email</h3>
-                                <p className="mb-0">Techco@example.com</p>
-                                <p className="mb-0">gmail.@example.com</p>
+                                <p className="mb-0">matrixofficial404@gmail.com</p>
+                                {/* <p className="mb-0">gmail.@example.com</p> */}
                             </div>
                         </div>
                     </div>
@@ -55,7 +55,7 @@ const ContactSection = (props) => {
                             </div>
                             <div className="iconbox_content">
                                 <h3 className="iconbox_title">Visit Between</h3>
-                                <p className="mb-0">Mon - Sat: 8.00-5.00</p>
+                                <p className="mb-0">Mon - Sat: 10.00 AM-6.00 PM</p>
                                 <p className="mb-0">Sunday: Closed</p>
                             </div>
                         </div>
